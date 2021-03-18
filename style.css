@@ -1,15 +1,19 @@
 body {
     font-family: monospace;
     font-size: 16px;
+    background-color: #696d7d;
+    color: #ffffff;
 }
 
 h1 {
     text-align: center;
-    margin-top: 100px;
+    margin-top: 50px;
 }
 
 p {
     text-align: justify;
+    font-size: 1,65em;
+    font-weight: bold;
 }
 
 img {
@@ -19,7 +23,7 @@ img {
 
 a {
     text-decoration: none;
-    color: #000000;
+    color: #552485;
 }
 
 .roundedBorder {
