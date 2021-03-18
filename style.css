@@ -1,0 +1,31 @@
+body {
+    font-family: monospace;
+    font-size: 16px;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 100px;
+}
+
+p {
+    text-align: justify;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
+
+a {
+    text-decoration: none;
+    color: #000000;
+}
+
+.roundedBorder {
+    border-radius: 30% 45%;
+}
+
+.textMargin {
+    margin: 100px 0px;
+}
